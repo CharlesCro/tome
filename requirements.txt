@@ -3,3 +3,5 @@ google-cloud-storage
 google-genai
 gitpython
 google-adk
+streamlit
+python-dotenv
